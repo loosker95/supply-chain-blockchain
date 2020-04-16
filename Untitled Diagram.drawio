@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T07:27:08.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="00iiI-YZoykCaDLKcdnU" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T07:30:33.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="8Xj7JPFUnhYGt9hCcOsn" version="12.9.10" type="github">
   <diagram id="vHJE2rFWAPaihzXbD_Ew" name="Page-1">
     <mxGraphModel dx="2346" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-1" value="Smart contract" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-1" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="-220" y="60" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="NUDlVZkMJnaIU51o0jNd-1">
@@ -15,7 +15,7 @@
         <mxCell id="NUDlVZkMJnaIU51o0jNd-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="121.2" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-5" value="Smart contract" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-5" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="680" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="NUDlVZkMJnaIU51o0jNd-5">
@@ -29,7 +29,7 @@
         <mxCell id="NUDlVZkMJnaIU51o0jNd-8" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-240" y="410" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-9" value="Smart contract" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-9" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="230.6" y="670" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-10" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="NUDlVZkMJnaIU51o0jNd-9">
@@ -37,7 +37,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-11" value="Smart contract" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-11" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="670" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-12" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="NUDlVZkMJnaIU51o0jNd-11">
@@ -96,7 +96,7 @@
             <mxPoint x="490" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-23" value="Event&#xa;Sub-Process" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-23" value="&lt;span style=&quot;font-size: 12px&quot;&gt;La transformation des denrées alimentaires&lt;/span&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="500" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-25" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" edge="1" parent="1">
@@ -156,7 +156,7 @@
             <mxPoint x="520" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-32" value="Smart contract" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-32" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1085" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-33" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="NUDlVZkMJnaIU51o0jNd-32">
@@ -233,8 +233,8 @@
         <mxCell id="NUDlVZkMJnaIU51o0jNd-54" value="Détails sur les aliments transformésajouté à Blockchain" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="472" y="500" width="176" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-55" value="AlimentationRaffinerie" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210.6" y="450" width="140" height="30" as="geometry" />
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-55" value="Manufacture" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="451" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-56" value="Offres pour les cultures" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="150" height="30" as="geometry" />
@@ -266,7 +266,7 @@
         <mxCell id="NUDlVZkMJnaIU51o0jNd-62" value="Scanner les codes-barres et remonter la chaîne d&#39;approvisionnement pour vérifier la qualité de la denrée alimentaire" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="1210" width="345" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-63" value="Smart contract" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-63" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="775" y="60" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-64" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="NUDlVZkMJnaIU51o0jNd-63">
@@ -286,7 +286,7 @@
         <mxCell id="NUDlVZkMJnaIU51o0jNd-67" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
           <mxGeometry x="720" y="360" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-68" value="Smart contract" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-68" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="670" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-69" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="NUDlVZkMJnaIU51o0jNd-68">
@@ -333,7 +333,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-78" value="Smart contract" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-78" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="1079" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-79" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="NUDlVZkMJnaIU51o0jNd-78">
@@ -388,6 +388,9 @@
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-97" value="IoT&amp;nbsp; permis" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-98" value="Peut suivre toutes les transactions, le coût et la qualité de la récolte livrée à tous les niveaux" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1215" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
