@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T07:40:51.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="eN4YScVCLFESk_Te6axB" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T07:45:11.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="eYBmPoUD-OqOK-SeVpSg" version="12.9.10" type="github">
   <diagram id="vHJE2rFWAPaihzXbD_Ew" name="Page-1">
     <mxGraphModel dx="2346" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,10 +305,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-73" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1100" y="360" width="70" height="50" as="geometry" />
+          <mxGeometry x="1004.5" y="450" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-74" value="&lt;div&gt;Logistique&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="949.5" y="420" width="180" height="30" as="geometry" />
+          <mxGeometry x="950" y="420" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-75" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -371,7 +371,7 @@
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-91" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1040" y="464.5" as="sourcePoint" />
+            <mxPoint x="1040" y="510" as="sourcePoint" />
             <mxPoint x="910" y="920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1040" y="920" />
@@ -385,7 +385,7 @@
           <mxGeometry x="1000" y="1180" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-97" value="IoT&amp;nbsp; permis" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="420" width="100" height="30" as="geometry" />
+          <mxGeometry x="1070" y="460" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-98" value="Peut suivre toutes les transactions, le coût et la qualité de la récolte livrée à tous les niveaux" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="770" y="1215" width="230" height="30" as="geometry" />
@@ -444,6 +444,18 @@
             <Array as="points">
               <mxPoint x="850" y="160" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-110" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1199" y="395" as="sourcePoint" />
+            <mxPoint x="1080" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-111" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1201" y="395" as="sourcePoint" />
+            <mxPoint x="1230" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
