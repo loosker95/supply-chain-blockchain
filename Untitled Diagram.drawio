@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T06:59:26.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="1slu76ZncBVm78umbqlH" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T07:02:26.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="agKH12-P8EGGJzfG1a8w" version="12.9.10" type="github">
   <diagram id="vHJE2rFWAPaihzXbD_Ew" name="Page-1">
-    <mxGraphModel dx="2346" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2346" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,6 +265,9 @@
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-61" value="Transfert de paiement automatique aux raffineries" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350.6" y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-62" value="Scanner les codes-barres et remonter la chaîne d&#39;approvisionnement pour vérifier la qualité de la denrée alimentaire" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1210" width="345" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
