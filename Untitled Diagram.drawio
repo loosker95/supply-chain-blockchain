@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T07:30:33.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="8Xj7JPFUnhYGt9hCcOsn" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T07:33:26.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="mWvGWmuFIkjyXFTk2rCv" version="12.9.10" type="github">
   <diagram id="vHJE2rFWAPaihzXbD_Ew" name="Page-1">
     <mxGraphModel dx="2346" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,9 +214,6 @@
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-48" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Détails du paiement&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;enregistré&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-61" y="700" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-49" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Utilisation de l&#39;apprentissage automatique pour&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;le contrôle de la qualité des cultures&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="555" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-52" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
