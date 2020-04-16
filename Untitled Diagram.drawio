@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T07:12:05.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="xodEl5nFKNqPk-oC4W2g" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T07:24:17.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="OCH34LTItlZYExRDNSai" version="12.9.10" type="github">
   <diagram id="vHJE2rFWAPaihzXbD_Ew" name="Page-1">
     <mxGraphModel dx="2346" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,9 +11,6 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-3" value="" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="240" width="99" height="51" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="121.2" height="111" as="geometry" />
@@ -309,9 +306,6 @@
             <mxPoint x="972" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-72" value="" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="990" y="364.5" width="99" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-73" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1100" y="360" width="70" height="50" as="geometry" />
         </mxCell>
@@ -361,6 +355,24 @@
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-82" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Military_Officer_128x128.png" vertex="1" parent="1">
           <mxGeometry x="990" y="1085" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-83" value="Grossiste" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="798" y="437" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-84" value="soumet une offre pour les denrées alimentaires transformées" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="735" y="510" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-85" value="L&#39;offre est acceptée et une demande est envoyée pour la livrer au grossiste" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="280" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-88" value="" style="shape=mxgraph.signs.transportation.truck_6;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="356" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-89" value="" style="shape=mxgraph.signs.transportation.truck_6;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="39.5" y="230" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-90" value="Des détails tels que la température contrôlée et l&#39;emplacement en temps réel sont enregistrés dans la chaîne." style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="695" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
