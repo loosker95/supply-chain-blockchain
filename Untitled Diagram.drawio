@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-16T07:33:26.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="mWvGWmuFIkjyXFTk2rCv" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-16T07:34:10.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="pa8vaAQwFVOVMD51iXYu" version="12.9.10" type="github">
   <diagram id="vHJE2rFWAPaihzXbD_Ew" name="Page-1">
     <mxGraphModel dx="2346" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,8 +380,8 @@
         <mxCell id="NUDlVZkMJnaIU51o0jNd-93" value="Des détails tels que la température contrôlée et l&#39;emplacement en temps réel sont enregistrés dans la chaîne." style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1050" y="680" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-96" value="Auditeur du gouvernement" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="954.5" y="1180" width="170" height="30" as="geometry" />
+        <mxCell id="NUDlVZkMJnaIU51o0jNd-96" value="Certificateur" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1180" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-97" value="IoT&amp;nbsp; permis" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="420" width="100" height="30" as="geometry" />
