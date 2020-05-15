@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-14T21:05:18.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="6Iyj-GOg9qQUXPlhz__M" version="13.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-15T02:28:44.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="I9O5buNF83fX8UG14R1M" version="13.0.3" type="github">
   <diagram id="vHJE2rFWAPaihzXbD_Ew" name="Page-1">
-    <mxGraphModel dx="2346" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2346" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,18 +251,6 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-70" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="920" y="395" as="sourcePoint" />
-            <mxPoint x="870" y="395" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-71" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="922" y="395" as="sourcePoint" />
-            <mxPoint x="972" y="395" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-73" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" parent="1" vertex="1">
           <mxGeometry x="1004.5" y="450" width="70" height="50" as="geometry" />
         </mxCell>
@@ -349,31 +337,14 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-108" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1299.5" y="160" as="sourcePoint" />
-            <mxPoint x="1299.5" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NUDlVZkMJnaIU51o0jNd-109" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1240" y="160" as="sourcePoint" />
+            <mxPoint x="1060" y="350" as="sourcePoint" />
             <mxPoint x="850" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="160" />
+              <mxPoint x="1060" y="170" />
+              <mxPoint x="850" y="170" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-110" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1199" y="395" as="sourcePoint" />
-            <mxPoint x="1080" y="395" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NUDlVZkMJnaIU51o0jNd-111" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1201" y="395" as="sourcePoint" />
-            <mxPoint x="1230" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oLR_UPdLuPLqKAQMb82z-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Military_Officer_128x128.png" vertex="1" parent="1">
@@ -390,6 +361,24 @@
         </mxCell>
         <mxCell id="oLR_UPdLuPLqKAQMb82z-5" value="QCR Code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="1120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oLR_UPdLuPLqKAQMb82z-7" value="Chaincode" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="70" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oLR_UPdLuPLqKAQMb82z-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="oLR_UPdLuPLqKAQMb82z-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLR_UPdLuPLqKAQMb82z-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NUDlVZkMJnaIU51o0jNd-100">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1070" y="360" as="sourcePoint" />
+            <mxPoint x="860" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="170" />
+              <mxPoint x="1315" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
